@@ -1,0 +1,7 @@
+C:\Users\tymni\OneDrive\Рабочий стол\C#\LU-Factorization\bin\Debug\LU-Factorization.exe.config
+C:\Users\tymni\OneDrive\Рабочий стол\C#\LU-Factorization\bin\Debug\LU-Factorization.exe
+C:\Users\tymni\OneDrive\Рабочий стол\C#\LU-Factorization\bin\Debug\LU-Factorization.pdb
+C:\Users\tymni\OneDrive\Рабочий стол\C#\LU-Factorization\obj\Debug\LU-Factorization.csprojAssemblyReference.cache
+C:\Users\tymni\OneDrive\Рабочий стол\C#\LU-Factorization\obj\Debug\LU-Factorization.csproj.CoreCompileInputs.cache
+C:\Users\tymni\OneDrive\Рабочий стол\C#\LU-Factorization\obj\Debug\LU-Factorization.exe
+C:\Users\tymni\OneDrive\Рабочий стол\C#\LU-Factorization\obj\Debug\LU-Factorization.pdb
